@@ -1,3 +1,7 @@
+*Todo o conteúdo dos arquivos .ipynb contém o trabalho de aula no início e o trabalho de estudo no meio.*
+---
+# **Nota:**
+
 Criei este repositório com a finalidade de apresentar a forma como realizei os trabalhos do curso de Álgebra Linear para Ciência de Dados.
 
 Índice:
